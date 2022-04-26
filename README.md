@@ -1,1 +1,1 @@
-JChessGame is a Java Chess Game board where you can find fun.
+JChessGame is a Desktop Java Chess Game board where you can have fun.
